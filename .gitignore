@@ -21,7 +21,6 @@ npm-debug.log*
 *.tsbuildinfo
 
 # IDE and editor folders
-.vscode/
 .idea/
 
 # MacOS
