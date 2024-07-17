@@ -1,6 +1,15 @@
 # react-typescript-bdd-template
 Template project that adds cucumber tests to the basic typescript create-react-app template.
 
+Works correctly in VS Code with auto-completion and click-through:
+
+<img width="646" alt="image" src="https://github.com/user-attachments/assets/f277dabc-b7f1-4b0d-b99d-45d7d6a65f22">
+
+And the ability to run tests from the test explorer:
+
+<img width="905" alt="image" src="https://github.com/user-attachments/assets/6be34a3f-1819-4577-8074-e530995d9e29">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
